@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '54429'
     url: http://www.gutenberg.org/2009/agents/54429
     wikipedia: https://en.wikipedia.org/wiki/Hugh_Doak_Rankin
+covers:
+- cover_type: archival
+  image_path: 70830-h/images/cover.jpg
 creator:
   author:
     agent_name: Howard, Robert E. (Robert Ervin)
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36031
     wikipedia: https://en.wikipedia.org/wiki/Robert_E._Howard
 description: 'Wikipedia: https://en.wikipedia.org/wiki/The_Shadow_Kingdom'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70830#The-shadow-kingdom
 gutenberg_issued: '2023-05-21'
 identifiers:
   gutenberg: '70830'
